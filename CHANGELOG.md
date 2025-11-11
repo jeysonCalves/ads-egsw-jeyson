@@ -1,4 +1,4 @@
-# 🕒 CHANGELOG - Sistema de Login
+#  CHANGELOG - Sistema de Login
 
 ## Versão 1.0 - Baseline Inicial
 - Criação do repositório no GitHub
